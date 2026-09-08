@@ -6,7 +6,6 @@ import {
   ArrowDownRight,
   ArrowUpRight,
   Check,
-  ChevronDown,
   Code2,
   Download,
   ExternalLink,
@@ -16,7 +15,6 @@ import {
   Menu,
   Moon,
   MoveUpRight,
-  Sparkles,
   Sun,
   X,
 } from "lucide-react";
