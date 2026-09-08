@@ -6,7 +6,6 @@ import {
   ArrowDownRight,
   ArrowUpRight,
   Check,
-  ChevronDown,
   Code2,
   Download,
   ExternalLink,
@@ -16,7 +15,6 @@ import {
   Menu,
   Moon,
   MoveUpRight,
-  Sparkles,
   Sun,
   X,
 } from "lucide-react";
@@ -196,7 +194,7 @@ export default function Home() {
             <p className="hero-copy">I&apos;m Rajesh — a senior engineer designing fault-tolerant platforms, elegant interfaces, and AI-augmented systems that move critical work forward.</p>
             <div className="hero-buttons">
               <a className="button button-primary" href="#work">View selected work <ArrowDownRight size={17} /></a>
-              <a className="button button-ghost" href="#contact">Download resume <Download size={16} /></a>
+              <a className="button button-ghost" href="/attached_assets/Rajesh_Koyi_Resume_(6)_1786461701153.docx" download>Download resume <Download size={16} /></a>
             </div>
           </motion.div>
         </div>
